@@ -22,3 +22,6 @@ A simple Java console-based Number Guessing Game.
 ## Project URL
 
 https://github.com/gnrishith/NumberGuessingGame
+## Project URL
+
+https://roadmap.sh/projects/number-guessing-game
